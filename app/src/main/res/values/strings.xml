@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HostelPG</string>
+    <string name="txtTitle2">Note: Only some hostels in Penang is available.</string>
+    <string name="txtTitle">HostelPG is a Hostel Search Application.</string>
+    <string name="btn1">Hostel List</string>
+    <string name="btn2">Help?!</string>
+    <string name="img1">logo</string>
+    <string name="title_activity_help">help</string>
+    <string name="title_activity_hostel_list">HostelList</string>
+</resources>
